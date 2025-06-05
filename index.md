@@ -1,5 +1,8 @@
 ---
 theme: minima
+---
+
+---
 title: Filipe029's personal blog
 ---
 
