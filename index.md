@@ -3,13 +3,13 @@ theme: minima
 ---
 
 ---
-title: Filipe029's personal blog
+title: Filipe029 blog top
 ---
 
 ---
-author: Filipe029
+Filipe029
 ---
 
 ---
-description: This is where I share cool stuff about my life
+aqui sabeee
 ---
